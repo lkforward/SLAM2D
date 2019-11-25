@@ -1,8 +1,7 @@
 # SLAM2D
-An implementation of Simultaneous Localization and Mapping (SLAM) algorithm in a 2D environment.
+An implementation of Simultaneous Localization and Mapping (SLAM) algorithm in a 2D environment. 
 
-# Prerequisite
+## Prerequisite and Usage
+You can use the notebook file to see how it works step by step. You will only need the robot.py and helper.py.  
 
-# Usage
-
-# Reference
+## Reference
